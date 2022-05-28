@@ -1,0 +1,221 @@
+HTML
+****
+	HTML Stands for Hyper Text Markup Language.
+
+	HTML, used to develop the static webpages.
+
+	HTML released by Tim Berners Lee
+
+	we can apply styles to webpages with the help of CSS
+
+	Ex.
+			color
+
+			background-color
+
+			margin
+
+			font-size
+
+			font-family
+
+			---
+			---
+			---
+
+	CSS Stands for Cascading Style Sheet
+
+	JavaScript, used to convert static webpages to dynamic webpages
+
+	JavaScript is the Scripting Language
+
+	we will save the webpages either ".html" (or) ".htm" extension
+
+	we will execute webpages with browsers
+
+	Ex.
+			Google Chrome
+
+			Mozilla
+
+			Opera
+
+			Netscape Navigator
+
+			Safari
+
+			---
+			---
+			---
+
+	we will develop webpages with following editors
+
+		Ex.
+				Notepad
+
+				Wordpad
+
+				Editplus
+
+				Notepad++
+
+				Sublime
+
+				VSCode IDE
+
+	IDE Stands for Integrated Development Environment
+	
+	VSCode IDE provided by microsoft and open source
+
+	we will develop webpages with the help of TAGS
+
+	TAGS provided by vendor
+
+	Ex.
+			<html> </html>
+
+		  <head> </head>
+
+			<title> </title>
+
+		 <body> </body>
+
+			<img>
+
+			<b></p>
+
+			<table> </table>
+
+			<p></p>
+
+			<div> </div>
+
+
+Element
+*******
+<html>
+
+		----
+		----
+		----
+</html>
+
+Softwares Installation
+**********************
+1) download and install browser
+	
+		Google Chrome
+
+		Mozilla
+
+
+2) download and install Visual Studio Code
+
+		website : https://code.visualstudio.com/docs/?dv=win
+
+		file    : VSCodeUserSetup-x64-1.67.2.exe
+
+
+3) install LiveServer plugin
+	
+		LiveServer plugin detectes the code changes
+
+		LiveServer plugin will give code changes information to browser
+
+		Browser will reload automatically with code changes
+
+
+		Click the Extensions ==> Live Server (Search) ==> Install
+
+
+
+4) Enable AutoSave Mode in VSCode
+
+	click settings icon ==> settings ==> Auto Save ==> after Delay
+
+
+5) make google chrome as default browser
+
+
+	click the setting icon (right top corner of browser) ==> settings 
+   ===> default browser
+
+
+
+
+versions of HTML
+
+	HTML5.X success in market, because it will support following 
+   features (API'S)
+
+	1) Schemantic Elements
+
+			Ex.
+				<header></header>
+
+				<aside></aside>
+	
+				<main></main>
+
+				<footer></footer>
+
+				<audio></audio>
+
+				<video></video>
+
+				----
+				----
+				----
+
+
+	2) Location API
+
+			used to implement the google maps
+
+	3) Storages API
+
+			local storage
+
+			session storage
+
+	4) Web Worker API
+
+	5) Web Socket API
+
+	6) Drag & Drop API
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+ 
+
+
+
+
